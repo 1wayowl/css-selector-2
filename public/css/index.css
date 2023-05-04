@@ -8,10 +8,10 @@
 }
 
 .lesson-four-task-three a.link:visited {
-  background-color: yellow;
+  color: yellow;
 }
 
-.lesson-four-task-four a.link:link {
+.lesson-four-task-four a:link {
   color: red;
 }
 
@@ -23,7 +23,7 @@
   background-color: orange;
 }
 
-.lesson-four-task-seven :target {
+.lesson-four-task-seven #target:target {
   background-color: green;
   color: greenyellow;
 }
